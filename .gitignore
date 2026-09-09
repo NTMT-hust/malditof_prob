@@ -1,0 +1,15 @@
+**/__pycache__/
+**/.idea/
+**/venv/
+**/experiments/modeling/results
+**/experiments/modeling/models
+**/experiments/modeling/notebooks/
+**/experiments/processing/notebooks/
+**/experiments/modeling/notebooks/
+*.csv
+**experiments/exploration/outputs
+**/results
+*.exe
+**/program/dist
+**/program/build
+**ipynb

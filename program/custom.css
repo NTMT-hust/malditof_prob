@@ -1,0 +1,30 @@
+.title_text {{
+    font-size: 34px;
+    font-weight: bold;
+}}
+
+.subtitle_text {{
+    font-size: 16px;
+}}
+
+.big_text {{
+    font-size: 24px;
+}}
+
+.bold_text {{
+    font-weight: bold;
+}}
+
+QLabel {{
+    font-size: 14px;
+}}
+
+QComboBox {{
+    font-size: 14px;
+    color: "#ffffff";
+}}
+
+QLineEdit {{
+    font-size: 14px;
+    color: "#ffffff";
+}}

@@ -1,0 +1,6 @@
+{
+    "Staphylococcus aureus": ["Oxacilina", "Clindamicina", "Ácido fusídico"],
+    "Escherichia coli": ["Ciprofloxacino", "Ceftriaxona", "Piperacilina-tazobactam", "Cefepima"],
+    "Klebsiella pneumoniae": ["Ciprofloxacino", "Ceftriaxona", "Imipenem", "Meropenem"],
+    "Pseudomonas aeruginosa": ["Ciprofloxacino", "Imipenem", "Meropenem"]
+}
