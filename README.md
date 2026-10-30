@@ -1,6 +1,6 @@
 # Probabilistic_MALDI-TOF_AST
 
-Repository for the **Multi-label classification to predict antibiotic resistance from raw clinical MALDI-TOF mass spectrometry data** project.
+Repository for the **Multi-label classification to predict antibiotic resistance from raw clinical MALDI-TOF mass spectrometry data** reproduce.
 
 The project is divided in 2 folders:
 
